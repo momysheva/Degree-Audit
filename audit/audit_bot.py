@@ -4,7 +4,7 @@ import major_audit
 
 
 # Create a bot object
-API_KEY = "6901367940:AAHt49OPRKl_OaqEQ3nmV0gJGD_j7U_MZqM"
+API_KEY = ""
 bot = telebot.TeleBot(API_KEY)
 
 majors= ['PLS', 'SOC', 'HST', 'ECON', 'WLL', 'BIOL', 'CHEM', 'MATH', 'PHYS']
